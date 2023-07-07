@@ -1,0 +1,38 @@
+body {
+    color: rgb(239, 228, 176);
+}
+
+nav {
+    background-color: rgb(0, 128, 128);
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: rgb(239, 228, 176);
+}
+
+#logo {
+    margin-left: 7%;
+}
+
+#appname {
+    font-family: 'Tourney', cursive;
+    font-size: xx-large;
+    color: rgb(239, 228, 176);
+}
+
+footer {
+    background-color: rgb(185, 122, 87);
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: rgb(239, 228, 176);
+}
+
+#finalnote {
+    padding-top: 1%;
+}
+
+#veryfinal {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
